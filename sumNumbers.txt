@@ -1,0 +1,38 @@
+Sub-algorithme : SumNumbers
+
+Input parameters :
+nb1 : integer
+nb2 : integer
+
+Output parameters :
+result : integer
+
+Instructions :
+result <- nb1+nb2
+
+algorithme : multiplyByFive
+
+nb1 : integer
+nb2 : integer
+result : integer
+sum : integer
+
+sum <- SumNumbers(nb1, nb2)
+result <- sum*5
+	write(result)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
